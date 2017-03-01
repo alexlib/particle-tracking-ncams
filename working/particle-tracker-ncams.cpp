@@ -11,6 +11,15 @@
 *
 *
 * Latest version: 03/28/13
+ 
+ *  In collaboration with Wesleyan Universiy.
+ *  All parts of these codes have been heavily modified by Stefan Kramel.
+ *  Added features: - variable number of cameras for which a particle can be missing
+ *                  - data format read in. from .avi files to .cpv and .gdf files
+ *                  - write out of intermediate stereomatched data
+ *
+ 
+ * Latest version: 01/17/17
 *
 */
 
