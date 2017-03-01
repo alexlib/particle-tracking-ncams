@@ -1,0 +1,16 @@
+4 # Number of cameras
+/FILEPATH/file.ext # movie 1 
+/FILEPATH/file.ext # movie 2
+/FILEPATH/file.ext # movie 3
+/FILEPATH/file.ext # movie 4
+./camconfig.txt # Path to camera calibration file
+450 # frames per second
+30 # set the threshold
+5 # cluster_rad
+1 # npredict
+1 # max_disp
+2 # memory
+0 # first frame
+50 # last frame
+/SAVEPATH/filename.ext # stereomatched 3D positions
+/SAVEPATH/filename.ext # 3D tracks output filename
